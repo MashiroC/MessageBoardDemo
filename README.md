@@ -2,4 +2,8 @@
 
 这是留言板的demo
 
-注释已经完善了 若要运行此demo请执行src/resouces下的sql文件 然后修改MessageBoardDaoImpl类中的数据库连接参数
+请git clone此仓库
+
+执行src/resouces下的sql脚本 然后修改MessageBoardDaoImpl类中的数据库连接参数
+
+注释已完善
